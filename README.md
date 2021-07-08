@@ -2,6 +2,9 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## APP Details
+This project is a simple Instagram Clone that uses React and Redux to create and render posts and comments. Firebase is the database used to store posts and comments. 
+
 ## Available Scripts
 
 In the project directory, you can run:
